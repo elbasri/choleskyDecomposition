@@ -1,2 +1,2 @@
-# choleskyDecomposition
+# تحليل شولسكي (Cholesky Decomposition)
  
